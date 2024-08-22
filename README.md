@@ -23,7 +23,7 @@
 - InputTheString：用來輸入文字
 - lowertoCap：將輸入的文字轉成大寫並將所有J/j都轉成I
 - Twotwo：將處理好的文字用成兩兩一組的array
-- Find1：(找到第一個字對應Key的位置，得知row1、col1
+- Find1：找到第一個字對應Key的位置，得知row1、col1
 - Find2：找到第二個字對應Key的位置，得知row2、col2
 - CmpRow：比較兩字的Row
 - CmpCol：比較兩字的Col
