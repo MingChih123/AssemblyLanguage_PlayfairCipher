@@ -15,12 +15,12 @@
 ![image](https://github.com/user-attachments/assets/7257e03f-b9ba-4223-9e7b-8e30753826a2)
 ## 程式說明（[詳細說明](https://github.com/MingChih123/AssemblyLanguage_PlayfairCipher/blob/main/Playfair%20Cipher%E7%A8%8B%E5%BC%8F%E8%AA%AA%E6%98%8E.pdf)）
 主要分為三部分：  
-（1）DATA
-- 儲存變數
-（2）主程式
-- 呼叫以下副程式
-（3）副程式
-- InputTheString：用來輸入文字
+（1）DATA  
+- 儲存變數  
+（2）主程式  
+- 呼叫以下副程式  
+（3）副程式  
+- InputTheString：用來輸入文字  
 - lowertoCap：將輸入的文字轉成大寫並將所有J/j都轉成I
 - Twotwo：將處理好的文字用成兩兩一組的array
 - Find1：找到第一個字對應Key的位置，得知row1、col1
